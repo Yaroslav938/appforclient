@@ -4,3 +4,4 @@ plotly>=5.18
 requests>=2.31
 httpx>=0.27
 google-api-python-client>=2.100
+yt-dlp
