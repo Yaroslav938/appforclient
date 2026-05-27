@@ -1,8 +1,0 @@
-streamlit>=1.31.0
-pandas>=2.1.0
-plotly>=5.18.0
-requests>=2.31.0
-yt-dlp>=2024.3.10
-apify-client>=1.7.0
-instaloader>=4.11.0
-openpyxl>=3.1.0
